@@ -1,5 +1,5 @@
 # 3088-PiHat-Project
-# Created as a part of EEE3088F GitExercise
+### Created as a part of EEE3088F GitExercise
 
 PiHat Use Case Description
 
